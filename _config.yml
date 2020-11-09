@@ -10,7 +10,7 @@
 
 title: NicolasBn                         # the main title
 
-tagline: Bienvenu sur mon blog ! Ici on parle PowerShell.  # it will display as the sub-title
+tagline: Bienvenue sur mon blog ! Ici on parle PowerShell et tout ce qui tournent autour.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
