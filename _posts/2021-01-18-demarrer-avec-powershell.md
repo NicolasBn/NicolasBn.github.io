@@ -40,7 +40,7 @@ Tout ce qu'il faut pour bien débuter avec le langage.
 Une fois que vous aurez compris les bases et commencé à consulter l'aide des commandes, je vous conseille de jeter un oeil aux sections `about_*` présentes dans l'aide de PowerShell.  
 On y trouve des explications sur des concepts ou des thématiques du langage (ex.: `Get-Help about_wildcards`).  
 
-**Note** : Petite remarque qui pourrait en freiner certains, ces rubriques `About` sont en anglais. Elles sont également disponibles en [ligne](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.1).
+{% include note.html content="Petite remarque qui pourrait en freiner certains, ces rubriques `About` sont en anglais. Elles sont également disponibles en [ligne](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.1)." %}
 
 ### Le module PSKoans
 
@@ -78,7 +78,7 @@ Aux éditions ENI, vous trouverez des livres, mais aussi des vidéos. Pour comme
 
 [PluralSight](https://www.pluralsight.com/fr) est une plateforme en ligne accessible sous abonnement (certains cours peuvent se retrouver gratuits). Elle regroupe un grand nombre de vidéos et d'articles sur différentes ressources (pas seulement PowerShell). Petite contrainte, la majeure partie des ressources sont en anglais.
 
-**Note** : PluralSight regroupe également des cours avancées sur PowerShell.
+{% include note.html content="PluralSight regroupe également des cours avancées sur PowerShell." %}
 
 ## On passe aux choses sérieuses
 
@@ -106,11 +106,11 @@ Les éditeurs :
  - [LeanPub](https://leanpub.com/bookstore?type=all&search=powershell)
  - [PacktPub](https://www.packtpub.com/catalogsearch/result/?q=powershell)
 
-**Note** : Je n'ai pas lu tous les ouvrages présents sur ces plateformes. Certains sont très bons d'autres moins. N'hésitez pas à me faire un retour sur ceux que vous aurez lu.
+{% include note.html content="Je n'ai pas lu tous les ouvrages présents sur ces plateformes. Certains sont très bons d'autres moins. N'hésitez pas à me faire un retour sur ceux que vous aurez lu." %}
 
-**Astuce** : PacktPub réalise régulièrement des offres promotionnelles à 5$ sur la plupart des livres. Ça peut être intéressant pour les petits budgets.
+{% include tip.html content="PacktPub réalise régulièrement des offres promotionnelles à 5$ sur la plupart des livres. Ça peut être intéressant pour les petits budgets." %}
 
-**Remarque** : En dehors de mon livre, je ne touche aucune rémunération, carte cadeaux ou coupons réductions sur les liens présentés ici ;).
+{% include important.html content="En dehors de mon livre, je ne touche aucune rémunération, carte cadeaux ou coupons réductions sur les liens présentés ici ;) ." %}
 
 ### Devenir forgeron
 
@@ -151,4 +151,4 @@ Les membres du groupe sont présents sur les plateformes de discussion Slack et 
 
 - Pour nous rejoindre : [Discord](https://discord.gg/wRprbR6y)
 
-**Note** : Concernant les invitations Slack, le site permettant de recevoir une invitation n'existe plus. Le seul moyen que je connais est de renseigner manuellement votre adresse mail par une personne déjà dans le Slack.
+{% include note.html content="Concernant les invitations Slack, le site permettant de recevoir une invitation n'existe plus. Le seul moyen que je connais est de renseigner manuellement votre adresse mail par une personne déjà dans le Slack." %}
