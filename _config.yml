@@ -8,9 +8,9 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: NicolasBn                         # the main title
+title: NicolasBn - AKALYA                         # the main title
 
-tagline: Bienvenue sur mon blog ! Ici on parle PowerShell et tout ce qui tournent autour.  # it will display as the sub-title
+tagline: PowerShell Addicte.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
