@@ -3,7 +3,7 @@ title: Démarrer avec PowerShell
 author: Nicolas BAUDIN
 date: 2021-01-18 17:30:00 +0100
 categories: Beginner
-tags: [beginner, débutant, powershell, biendémarrer]
+tags: [débutant, powershell]
 ---
 
 ## Par où commencer ?
