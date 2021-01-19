@@ -71,8 +71,8 @@ Aux éditions ENI, vous trouverez des livres, mais aussi des vidéos. Pour comme
 
  - Le livre sur les [fondamentaux de PowerShell](https://www.editions-eni.fr/livre/powershell-core-et-windows-powershell-les-fondamentaux-du-langage-2e-edition-9782409013287)
  - Les vidéos qui décrivent également les fondamentaux :
-  - [Les fondamentaux](https://www.editions-eni.fr/video/powershell-les-fondamentaux-du-scripting-vtscrpow)
-  - [Optimiser l'écriture de vos scripts](https://www.editions-eni.fr/video/powershell-optimisez-l-ecriture-de-vos-scripts-a-l-aide-des-fonctions-et-des-modules-vtfomopow)
+   - [Les fondamentaux](https://www.editions-eni.fr/video/powershell-les-fondamentaux-du-scripting-vtscrpow)
+   - [Optimiser l'écriture de vos scripts](https://www.editions-eni.fr/video/powershell-optimisez-l-ecriture-de-vos-scripts-a-l-aide-des-fonctions-et-des-modules-vtfomopow)
 
 #### PluralSight
 
