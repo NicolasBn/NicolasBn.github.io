@@ -52,10 +52,17 @@ L'idée du module est de vous poser des questions sur les mécaniques du langage
 Le lien du projet : [PSKoans](https://github.com/vexx32/PSKoans)
 
 Une fois le module [installé](https://github.com/vexx32/PSKoans#install-from-gallery), vous pouvez lancer un `Show-Karma` pour voir quel est votre niveau.  
-Ensuite, vous rajoutez le paramètre `-Contemplate` pour continuer à répondre aux questions et à progresser.
+
+![ShowKarma](/asset/img/2021-01-18/ShowKarma.PNG)
+
+Ensuite, vous rajoutez le paramètre `-Contemplate` (ou `-Meditate`) pour continuer à répondre aux questions et à progresser.
+
+![ShowKarma](/asset/img/2021-01-18/CompleteScript.PNG)
 
 Une fois que vous avez répondu aux questions et enregistré vos réponses, pour pouvez de nouveau 
 exécuter un `Show-Karma` pour voir si vos réponses sont bonnes.
+
+![ShowKarma](/asset/img/2021-01-18/ShowKarmaAnswered.PNG)
 
 Il faut savoir que la plupart des réponses aux questions sont présentes dans les rubriques d'aides `About`.
 
