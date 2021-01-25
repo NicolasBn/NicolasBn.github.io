@@ -156,6 +156,7 @@ Depuis 2016, les organisateurs ont mis en place des évènements en ligne pour d
 
 Les membres du groupe sont présents sur les plateformes de discussion Slack et Discord. Il existe un pont entre ces deux plateformes, on peut ainsi communiquer avec les personnes présentes sur Slack si on est sur Discord, et inversement. On discute ainsi en temps réel sur les problématiques, évolutions et différentes découvertes PowerShell que l'on fait.
 
-- Pour nous rejoindre : [Discord](https://discord.gg/Ms5C6cF)
-
-{% include note.html content="Concernant les invitations Slack, le site permettant de recevoir une invitation n'existe plus. Le seul moyen que je connais est de renseigner manuellement votre adresse mail par une personne déjà dans le Slack." %}
+- Pour nous rejoindre : 
+   - [Discord](https://discord.gg/Ms5C6cF)
+   - [Slack](https://aka.ms/psslack)
+   
