@@ -85,7 +85,7 @@ Aux éditions ENI, vous trouverez des livres, mais aussi des vidéos. Pour comme
 
 [PluralSight](https://www.pluralsight.com/fr) est une plateforme en ligne accessible sous abonnement (certains cours peuvent se retrouver gratuits). Elle regroupe un grand nombre de vidéos et d'articles sur différentes ressources (pas seulement PowerShell). Petite contrainte, la majeure partie des ressources sont en anglais.
 
-{% include note.html content="PluralSight regroupe également des cours avancées sur PowerShell." %}
+{% include note.html content="PluralSight regroupe également des cours avancés sur PowerShell." %}
 
 ## On passe aux choses sérieuses
 
